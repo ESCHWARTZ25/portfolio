@@ -270,6 +270,14 @@ body {
     color: var(--text-primary);
 }
 
+.project-subheader {
+    margin: 0.5rem 0 0 0;
+    font-size: 0.9rem;
+    font-weight: 300;
+    color: #888;
+    line-height: 1.4;
+  }
+
 .project-links {
     display: flex;
     gap: 0.75rem;
